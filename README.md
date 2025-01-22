@@ -45,8 +45,8 @@ Currently, I’m diving deeper into the exciting world of **cloud computing** �
 
 I’m always excited to connect with like-minded individuals passionate about **technology**, **cloud computing**, and **front-end development**. If you’d like to collaborate or just chat, feel free to reach out!  
 
-- 🌐 **[LinkedIn](#)**  
-- 📧 **[Email](#)**  
+- 🌐 **[LinkedIn](https://www.linkedin.com/in/satish-kumar11/)**  
+- 📧 **[Email](mailto:satish.appanasamy@gmail.com)**  
 
 ---
 
